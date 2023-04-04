@@ -1,0 +1,59 @@
+* {
+  box-sizing: border-box;
+  margin: 0 auto;
+}
+
+body {
+  font-family: Helvetica;
+}
+
+.baner {
+  background-color: rgb(70, 130, 180);
+  color: white;
+  height: 30px;
+  text-align: center;
+}
+
+.main {
+  background-color: rgb(176, 196, 222);
+  padding: 50px;
+  text-align: center;
+}
+
+.left {
+  background-color: rgb(70, 130, 180);
+  color: white;
+  height: 300px;
+  width: 80%;
+  float: left;
+}
+
+.right {
+  background-color: rgb(70, 130, 180);
+  color: white;
+  height: 300px;
+  width: 20%;
+  float: left;
+}
+
+.StubAnnotation {
+  padding: 3px;
+  border: 1px dashed blue;
+  border-radius: 10px;
+}
+
+.CallbackTask {
+  height: 40%;
+}
+
+.CallbackTask:hover {
+  border: 1px solid white;
+}
+
+footer {
+  background-color: rgb(70, 130, 180);
+  color: white;
+  height: 30px;
+  text-align: center;
+  clear: both;
+}
