@@ -20,7 +20,7 @@ const ImageGallery = () => {
           <img
             id="StubAnnotation"
             className="StubAnnotation"
-            src="xdd.jpg"
+            src="yo.jpg"
             alt="galeria"
           />
         </div>
@@ -30,7 +30,7 @@ const ImageGallery = () => {
             onClick={() => handleImageSwitcher('lanzarotte')}
             id="lanzarotte"
             className="CallbackTask"
-            src="/lanzarotte.jpg"
+            src="lanzarotte.jpg"
             alt="lanzarotte"
           />
           <img
